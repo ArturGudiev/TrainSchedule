@@ -1,0 +1,5 @@
+C:\Programming\C#\Schedule\Schedule\bin\Debug\Empty Project5.dll
+C:\Programming\C#\Schedule\Schedule\bin\Debug\Empty Project5.pdb
+C:\Programming\C#\Schedule\Schedule\obj\Debug\Architecture.csprojResolveAssemblyReference.cache
+C:\Programming\C#\Schedule\Schedule\obj\Debug\Empty Project5.dll
+C:\Programming\C#\Schedule\Schedule\obj\Debug\Empty Project5.pdb

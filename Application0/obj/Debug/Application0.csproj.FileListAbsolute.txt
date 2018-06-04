@@ -1,0 +1,7 @@
+C:\Programming\C#\Schedule\Temp\Application0.dll
+C:\Programming\C#\Schedule\Temp\Application0.pdb
+C:\Programming\C#\Schedule\Application0\obj\Debug\Application0.csprojResolveAssemblyReference.cache
+C:\Programming\C#\Schedule\Application0\obj\Debug\Application0.dll
+C:\Programming\C#\Schedule\Application0\obj\Debug\Application0.pdb
+C:\Programming\C#\Schedule\Output\SandBox\App\Application0.dll
+C:\Programming\C#\Schedule\Output\SandBox\App\Application0.pdb

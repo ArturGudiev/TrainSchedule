@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<componentModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="334f421c-5f3f-42cb-a87f-56cd79e282c1" xmlns="http://schemas.microsoft.com/dsltools/UbiqDesigner">
+  <customComponents>
+    <componentModelHasCustomComponents Id="fa54424b-6c92-41b3-81c6-ff28b3f75a6f">
+      <application Id="d808bbb1-b674-4782-9bb6-e9c47e959a34" name="Application0" chanel="1" />
+    </componentModelHasCustomComponents>
+  </customComponents>
+</componentModel>
