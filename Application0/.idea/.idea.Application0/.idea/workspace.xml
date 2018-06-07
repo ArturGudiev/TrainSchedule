@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0706aa9d-4d41-4215-875e-b19b1ea9f6e6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/UserSection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UserSection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Application0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Application0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Application0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Application0.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LogFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LogFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Output/SandBox/App/Application0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Output/SandBox/App/Application0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Output/SandBox/App/Application0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Output/SandBox/App/Application0.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Schedule.v11.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../Schedule.v11.suo" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AssemblyInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1528055461556" expanded="false" signature="6:101" ph="..." />
+                <marker date="1528055461556" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+                <marker date="1528055461556" expanded="true" signature="605:815" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+                <marker date="1528055461556" expanded="true" signature="990:1317" ph="/* Version information for an assembly consists of the following four values: ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserSection.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UserSection.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding>
+                <marker date="1528144019942" expanded="false" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
+                <marker date="1528144019942" expanded="false" signature="578:689" ph="..." />
+                <marker date="1528144019942" expanded="false" signature="713:16971" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="746:16968" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="1092:1161" ph="/* Timer event handler. ... */" />
+                <marker date="1528144019942" expanded="false" signature="1183:1243" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="1306:1983" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="1363:1972" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="2021:3131" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="2074:3120" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="2588:2703" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528144019942" expanded="false" signature="3178:4299" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="3232:4288" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="3426:3679" ph="/* Horizontal alignment within the parent control ... */" />
+                <marker date="1528144019942" expanded="false" signature="3751:3866" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528144019942" expanded="false" signature="4352:4669" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="4512:4580" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="4745:5086" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="4811:4892" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="4996:5053" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="5168:5359" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="5369:5446" ph="/* User section for bussines logic ... */" />
+                <marker date="1528144019942" expanded="false" signature="5489:7258" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="5634:6368" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="6148:6263" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528144019942" expanded="false" signature="6676:6799" ph="/* showState1(); ... */" />
+                <marker date="1528144019942" expanded="false" signature="6822:7248" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="6870:7144" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="7293:10742" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="7603:8310" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="8485:10244" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="8514:10229" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="10348:10695" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="10395:10612" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="10777:16962" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="10800:15928" ph="stat1" />
+                <marker date="1528144019942" expanded="false" signature="10860:11932" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="11374:11489" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528144019942" expanded="false" signature="11982:12576" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="12626:13218" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="13268:14571" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="13462:13715" ph="/* Horizontal alignment within the parent control ... */" />
+                <marker date="1528144019942" expanded="false" signature="13787:13902" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528144019942" expanded="false" signature="14356:14555" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="14621:15904" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="14815:15068" ph="/* Horizontal alignment within the parent control ... */" />
+                <marker date="1528144019942" expanded="false" signature="15140:15255" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528144019942" expanded="false" signature="15689:15888" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="16147:16915" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="16194:16882" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="16224:16811" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="16297:16789" ph="{...}" />
+                <marker date="1528144019942" expanded="false" signature="16396:16767" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/UserSection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="258" />
+    <option name="y" value="18" />
+    <option name="width" value="1401" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Application0 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Application0 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Application0" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Application0 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Application0" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GeneratedCode" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0706aa9d-4d41-4215-875e-b19b1ea9f6e6" name="Default" comment="" />
+      <created>1528148225910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528148225910</updated>
+      <workItem from="1528148227155" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="628000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528055461556" expanded="false" signature="6:101" ph="..." />
+            <marker date="1528055461556" expanded="true" signature="103:290" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1528055461556" expanded="true" signature="605:815" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1528055461556" expanded="true" signature="990:1317" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserSection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <marker date="1528144019942" expanded="false" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
+            <marker date="1528144019942" expanded="false" signature="578:689" ph="..." />
+            <marker date="1528144019942" expanded="false" signature="713:16971" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="746:16968" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="1092:1161" ph="/* Timer event handler. ... */" />
+            <marker date="1528144019942" expanded="false" signature="1183:1243" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="1306:1983" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="1363:1972" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="2021:3131" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="2074:3120" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="2588:2703" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528144019942" expanded="false" signature="3178:4299" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="3232:4288" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="3426:3679" ph="/* Horizontal alignment within the parent control ... */" />
+            <marker date="1528144019942" expanded="false" signature="3751:3866" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528144019942" expanded="false" signature="4352:4669" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="4512:4580" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="4745:5086" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="4811:4892" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="4996:5053" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="5168:5359" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="5369:5446" ph="/* User section for bussines logic ... */" />
+            <marker date="1528144019942" expanded="false" signature="5489:7258" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="5634:6368" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="6148:6263" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528144019942" expanded="false" signature="6676:6799" ph="/* showState1(); ... */" />
+            <marker date="1528144019942" expanded="false" signature="6822:7248" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="6870:7144" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="7293:10742" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="7603:8310" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="8485:10244" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="8514:10229" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="10348:10695" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="10395:10612" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="10777:16962" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="10800:15928" ph="stat1" />
+            <marker date="1528144019942" expanded="false" signature="10860:11932" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="11374:11489" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528144019942" expanded="false" signature="11982:12576" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="12626:13218" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="13268:14571" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="13462:13715" ph="/* Horizontal alignment within the parent control ... */" />
+            <marker date="1528144019942" expanded="false" signature="13787:13902" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528144019942" expanded="false" signature="14356:14555" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="14621:15904" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="14815:15068" ph="/* Horizontal alignment within the parent control ... */" />
+            <marker date="1528144019942" expanded="false" signature="15140:15255" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528144019942" expanded="false" signature="15689:15888" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="16147:16915" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="16194:16882" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="16224:16811" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="16297:16789" ph="{...}" />
+            <marker date="1528144019942" expanded="false" signature="16396:16767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -29,7 +29,7 @@ namespace Application0
 	[AppDescription("Application0")]
     public partial class Application0 : MExtendedThreadApp
     {
-
+        
 		VisualElement _ubiqdesign;
 
 
@@ -37,7 +37,6 @@ namespace Application0
 		private void InitUI()
         {
 			_ubiqdesign = Screen.CreateElement("UbiqDesign");
-
         }
 
 		//Main entry point of application

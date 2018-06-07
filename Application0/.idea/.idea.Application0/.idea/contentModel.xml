@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Programming\C#\Schedule\Application0" t="IncludeRecursive">
+      <e p="Application0.cs" t="Include" />
+      <e p="Application0.csproj" t="IncludeRecursive" />
+      <e p="Application0.sln" t="IncludeFlat" />
+      <e p="GeneratedCode" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="UbiqDesign.ubiqml" t="Include" />
+      <e p="UserSection.cs" t="Include" />
+    </e>
+    <e p="C:\Programming\C#\Schedule\Output\SandBox\App" t="ExcludeRecursive" />
+    <e p="C:\Users\gudiea\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Application0.-499088059.00" t="ExcludeRecursive" />
+  </component>
+</project>

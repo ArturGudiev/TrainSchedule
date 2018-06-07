@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Application0/Controller.cs" line="17" mnemonic="1" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc0c9a8e-e4d0-4df2-ab39-a18b831e9f49" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Application0/Controller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application0/Application0.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application0/Application0.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application0/Application0.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Application0/Application0.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application0/UserSection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application0/UserSection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application0/obj/Debug/Application0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Application0/obj/Debug/Application0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application0/obj/Debug/Application0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Application0/obj/Debug/Application0.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LogFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/SandBox/App/Application0.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Output/SandBox/App/Application0.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/SandBox/App/Application0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Output/SandBox/App/Application0.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schedule.v11.suo" beforeDir="false" afterPath="$PROJECT_DIR$/Schedule.v11.suo" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="UserSection.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application0/UserSection.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1470">
+              <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
+              <folding>
+                <marker date="1528228839708" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
+                <marker date="1528228839708" expanded="true" signature="578:689" ph="..." />
+                <marker date="1528228839708" expanded="true" signature="713:4700" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="752:4697" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="914:1591" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="971:1580" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="1629:2739" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="1682:2728" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="2196:2311" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528228839708" expanded="true" signature="2786:3655" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="2840:3644" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="3708:4025" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="3868:3936" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="4101:4387" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="4167:4248" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="4297:4354" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="4434:4681" ph="{...}" />
+                <marker date="1528228839708" expanded="true" signature="4569:4671" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application0.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application0/Application0.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <marker date="1528228839809" expanded="true" signature="0:533" ph="/* ------------------------------------------------------------------------------ ... */" />
+                <marker date="1528228839809" expanded="true" signature="543:697" ph="..." />
+                <marker date="1528228839809" expanded="true" signature="783:1305" ph="{...}" />
+                <marker date="1528228839809" expanded="true" signature="880:1303" ph="{...}" />
+                <marker date="1528228839809" expanded="true" signature="997:1070" ph="{...}" />
+                <marker date="1528228839809" expanded="true" signature="1160:1297" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Application0/Controller.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="85" column="23" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="23" />
+              <folding>
+                <marker date="1528228839775" expanded="false" signature="6:92" ph="..." />
+                <marker date="1528228839775" expanded="true" signature="116:13113" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="155:449" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="280:382" ph="{...}" />
+                <marker date="1528228839775" expanded="true" signature="496:13111" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="612:744" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="986:1046" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="1107:1784" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="1164:1773" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="1948:2119" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="2157:2456" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="2204:2446" ph="{...}" />
+                <marker date="1528228839775" expanded="true" signature="2499:8631" ph="{...}" />
+                <marker date="1528228839775" expanded="true" signature="2522:7650" ph="stat1" />
+                <marker date="1528228839775" expanded="true" signature="2582:3654" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="3096:3211" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528228839775" expanded="false" signature="3704:4298" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="4348:4940" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="4990:6293" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="5184:5437" ph="/* Horizontal alignment within the parent control ... */" />
+                <marker date="1528228839775" expanded="false" signature="5509:5624" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528228839775" expanded="false" signature="6078:6277" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="6343:7626" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="6537:6790" ph="/* Horizontal alignment within the parent control ... */" />
+                <marker date="1528228839775" expanded="false" signature="6862:6977" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528228839775" expanded="false" signature="7411:7610" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="7816:8584" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="7863:8551" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="7893:8480" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="7966:8458" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="8065:8436" ph="{...}" />
+                <marker date="1528228839775" expanded="true" signature="8675:13105" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="8732:9777" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="9246:9361" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+                <marker date="1528228839775" expanded="false" signature="9966:10673" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="10848:12607" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="10877:12592" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="12711:13058" ph="{...}" />
+                <marker date="1528228839775" expanded="false" signature="12758:12975" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Screen.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECCE6C50-D195-498A-9764-BEC12FDD8136/78/3b794cd1/Screen.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="351" column="18" selection-start-line="351" selection-start-column="18" selection-end-line="351" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UbiqDesign.ubiqml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application0/UbiqDesign.ubiqml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>screen</find>
+      <find>static</find>
+      <find>пуе</find>
+      <find>getText</find>
+      <find>padding</find>
+      <find>Padding</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Application0/Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application0/UserSection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Application0/Application0.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECCE6C50-D195-498A-9764-BEC12FDD8136/78/3b794cd1/Screen.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Application0/UserSection.cs" />
+        <option value="$PROJECT_DIR$/Application0/Application0.cs" />
+        <option value="$PROJECT_DIR$/Application0/Controller.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="258" />
+    <option name="y" value="18" />
+    <option name="width" value="1401" />
+    <option name="height" value="1002" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Schedule (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Schedule (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Application0" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Schedule (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Application0" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="GeneratedCode" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc0c9a8e-e4d0-4df2-ab39-a18b831e9f49" name="Default" comment="" />
+      <created>1528189163011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528189163011</updated>
+      <workItem from="1528189166468" duration="10562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10562000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Application0/UbiqDesign.ubiqml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECCE6C50-D195-498A-9764-BEC12FDD8136/78/3b794cd1/Screen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="351" column="18" selection-start-line="351" selection-start-column="18" selection-end-line="351" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/UserSection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
+          <folding>
+            <marker date="1528228839708" expanded="true" signature="0:569" ph="/* -----------------------------User-section---------------------------------------------------- ... */" />
+            <marker date="1528228839708" expanded="true" signature="578:689" ph="..." />
+            <marker date="1528228839708" expanded="true" signature="713:4700" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="752:4697" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="914:1591" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="971:1580" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="1629:2739" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="1682:2728" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="2196:2311" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528228839708" expanded="true" signature="2786:3655" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="2840:3644" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="3708:4025" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="3868:3936" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="4101:4387" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="4167:4248" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="4297:4354" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="4434:4681" ph="{...}" />
+            <marker date="1528228839708" expanded="true" signature="4569:4671" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/Application0.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <marker date="1528228839809" expanded="true" signature="0:533" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1528228839809" expanded="true" signature="543:697" ph="..." />
+            <marker date="1528228839809" expanded="true" signature="783:1305" ph="{...}" />
+            <marker date="1528228839809" expanded="true" signature="880:1303" ph="{...}" />
+            <marker date="1528228839809" expanded="true" signature="997:1070" ph="{...}" />
+            <marker date="1528228839809" expanded="true" signature="1160:1297" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application0/Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="85" column="23" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="23" />
+          <folding>
+            <marker date="1528228839775" expanded="false" signature="6:92" ph="..." />
+            <marker date="1528228839775" expanded="true" signature="116:13113" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="155:449" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="280:382" ph="{...}" />
+            <marker date="1528228839775" expanded="true" signature="496:13111" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="612:744" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="986:1046" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="1107:1784" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="1164:1773" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="1948:2119" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="2157:2456" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="2204:2446" ph="{...}" />
+            <marker date="1528228839775" expanded="true" signature="2499:8631" ph="{...}" />
+            <marker date="1528228839775" expanded="true" signature="2522:7650" ph="stat1" />
+            <marker date="1528228839775" expanded="true" signature="2582:3654" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="3096:3211" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528228839775" expanded="false" signature="3704:4298" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="4348:4940" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="4990:6293" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="5184:5437" ph="/* Horizontal alignment within the parent control ... */" />
+            <marker date="1528228839775" expanded="false" signature="5509:5624" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528228839775" expanded="false" signature="6078:6277" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="6343:7626" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="6537:6790" ph="/* Horizontal alignment within the parent control ... */" />
+            <marker date="1528228839775" expanded="false" signature="6862:6977" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528228839775" expanded="false" signature="7411:7610" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="7816:8584" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="7863:8551" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="7893:8480" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="7966:8458" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="8065:8436" ph="{...}" />
+            <marker date="1528228839775" expanded="true" signature="8675:13105" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="8732:9777" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="9246:9361" ph="/* Padding is using predefined constant NormalFontSize that depends ... */" />
+            <marker date="1528228839775" expanded="false" signature="9966:10673" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="10848:12607" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="10877:12592" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="12711:13058" ph="{...}" />
+            <marker date="1528228839775" expanded="false" signature="12758:12975" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

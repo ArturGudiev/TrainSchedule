@@ -74,6 +74,7 @@
     <Compile Include="Application0.cs">
       <DependentUpon>GeneratedCode</DependentUpon>
     </Compile>
+    <Compile Include="Controller.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UserSection.cs">
       <DependentUpon>GeneratedCode</DependentUpon>
