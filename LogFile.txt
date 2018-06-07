@@ -741,3 +741,239 @@ _buildEvents_OnBuildDone Application0\Application0.csproj
 _buildEvents_OnBuildDone <MiscFiles>
 _buildEvents_OnBuildDone Application0\Application0.csproj
 _buildEvents_OnBuildDone <MiscFiles>
+Source C:\Programming\C#\Schedule\Architecture Dest C:\Programming\C#\Schedule\Architecture
+Source C:\Programming\C#\Schedule\Architecture Dest C:\Programming\C#\Schedule\Architecture
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+OnExceptionNotHandled time:07.06.2018 15:09:30
+OnExceptionNotHandled time:07.06.2018 15:09:30
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:09:30
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:09:30
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:09:30
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:09:30
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:09:51
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:09:51
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:10:08
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:10:08
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:10:08
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:10:08
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 15:10:44
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 15:10:45
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+OnExceptionNotHandled time:07.06.2018 15:10:47
+OnExceptionNotHandled time:07.06.2018 15:10:47
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:10:47
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:10:47
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:10:47
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:10:47
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:11:00
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:11:00
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:11:00
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:11:00
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+OnExceptionNotHandled time:07.06.2018 15:11:11
+OnExceptionNotHandled time:07.06.2018 15:11:11
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:11:11
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:11:11
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:11:11
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:11:11
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 15:21:33
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 15:21:34
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+OnExceptionNotHandled time:07.06.2018 15:21:39
+OnExceptionNotHandled time:07.06.2018 15:21:39
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:21:39
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:21:39
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:21:39
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:21:40
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+OnExceptionNotHandled time:07.06.2018 15:21:48
+OnExceptionNotHandled time:07.06.2018 15:21:48
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:21:49
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:21:49
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:21:49
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:21:49
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:25:13
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:25:13
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:25:13
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:25:13
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+OnExceptionNotHandled time:07.06.2018 15:25:15
+OnExceptionNotHandled time:07.06.2018 15:25:15
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:25:15
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:25:15
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:25:15
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:25:15
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 15:27:35
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 15:27:35
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+OnExceptionNotHandled time:07.06.2018 15:27:38
+OnExceptionNotHandled time:07.06.2018 15:27:38
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:27:39
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:27:39
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:27:39
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:27:39
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:27:44
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:27:44
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:27:44
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:27:44
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 15:28:31
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 15:28:31
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+OnExceptionNotHandled time:07.06.2018 15:28:32
+OnExceptionNotHandled time:07.06.2018 15:28:32
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:28:32
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:28:32
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:28:33
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 15:28:33
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:28:39
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:28:39
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:28:39
+DebuggerEvents_OnContextChanged, time:07.06.2018 15:28:39
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 16:10:44
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 16:10:45
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+OnExceptionNotHandled time:07.06.2018 16:10:50
+OnExceptionNotHandled time:07.06.2018 16:10:50
+DebuggerEvents_OnContextChanged, time:07.06.2018 16:10:50
+DebuggerEvents_OnContextChanged, time:07.06.2018 16:10:50
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 16:10:50
+DebuggerEvents_OnEnterBreakMode, time:07.06.2018 16:10:50
+DebuggerEvents_OnContextChanged, time:07.06.2018 16:11:03
+DebuggerEvents_OnContextChanged, time:07.06.2018 16:11:03
+DebuggerEvents_OnContextChanged, time:07.06.2018 16:11:03
+DebuggerEvents_OnContextChanged, time:07.06.2018 16:11:03
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 17:20:12
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:07.06.2018 17:20:13
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+Source C:\Programming\C#\Schedule\Architecture Dest C:\Programming\C#\Schedule\Architecture
+Source C:\Programming\C#\Schedule\Architecture Dest C:\Programming\C#\Schedule\Architecture
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
