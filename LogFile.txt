@@ -837,3 +837,7 @@ _buildEvents_OnBuildDone Application0\Application0.csproj
 _buildEvents_OnBuildDone <MiscFiles>
 _buildEvents_OnBuildDone Application0\Application0.csproj
 _buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
