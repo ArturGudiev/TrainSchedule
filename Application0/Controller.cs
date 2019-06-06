@@ -167,6 +167,7 @@ namespace Application0
         {
             goButton = new Button
             {
+                Visibility = Visibility.Hidden,
                 VerticalAlignment = VerticalAlignment.Center,           // Vertical alignment within the parent control
                 HorizontalAlignment = HorizontalAlignment.Center,       // Horizontal alignment within the parent control
                 Background = new SolidColorBrush(Colors.Gray),         // Color of button
@@ -212,6 +213,7 @@ namespace Application0
                 new Cell{Content = getTextBlock("15:40           ежедневно", Screen.SmallFontSize), Height = 30},
                 new Cell{Content = getTextBlock("16:00           по рабочим", Screen.SmallFontSize), Height = 30}},
             };
+             
             //var target = getTextBlock("Target");
             var panel = new StackPanel
             {
@@ -221,7 +223,7 @@ namespace Application0
                     new Cell {Content = listBox},
                     new Cell {Content = goButton, Height = 70},
                 },
-                Background = new SolidColorBrush(Colors.LightBlue),
+                Background = new SolidColorBrush(Colors.Black),
             };
             Screen.Content = panel;
         }

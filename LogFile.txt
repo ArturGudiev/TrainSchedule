@@ -841,3 +841,63 @@ _buildEvents_OnBuildDone Application0\Application0.csproj
 _buildEvents_OnBuildDone <MiscFiles>
 _buildEvents_OnBuildDone Application0\Application0.csproj
 _buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:26.05.2019 22:34:00
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:26.05.2019 22:34:02
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:06.06.2019 7:41:46
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:06.06.2019 7:41:51
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:06.06.2019 7:56:46
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+itemOp.OpenFile(fullPath, Constants.vsViewKindDesigner) time:06.06.2019 7:56:48
+Copy lib files
+C:\Programming\C#\Schedule\Output\Library\
+C:\Programming\C#\Schedule\Server\
+Begin running RunCustomTool
+End running RunCustomTool
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
+_buildEvents_OnBuildDone Application0\Application0.csproj
+_buildEvents_OnBuildDone <MiscFiles>
